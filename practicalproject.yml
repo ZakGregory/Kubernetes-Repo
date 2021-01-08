@@ -2,7 +2,7 @@
 apiVersion: v1
 kind: Service
 metadata:
-  name: service1balance
+  name: service1
 spec:
   selector:
     app: service1
